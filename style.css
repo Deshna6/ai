@@ -1,0 +1,23 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+#btn_warn{
+    font-size: 15px;
+    padding: 10px;
+    margin: 15px;
+} 
+
+canvas{
+    border-radius: 20px;
+    box-shadow: lightgray;
+    padding: 10px;
+    margin: 10px;
+}
